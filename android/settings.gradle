@@ -1,0 +1,3 @@
+rootProject.name = 'DTouchabelDemo'
+
+include ':app'
